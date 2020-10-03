@@ -8,7 +8,7 @@ We are happy to announce the release of SmartHotel360. This release intends to s
 
 We updated the code for this repository to support Scott Hanselman's General Session from Ignite 2018, [An end-to-end tour of the Microsoft developer platform](https://myignite.techcommunity.microsoft.com/sessions/66696#ignite-html-anchor). 
 
-# SmartHotel360 Repos
+# SmartHotel And Services 360 Repos
 For this reference app scenario, we built several consumer and line-of-business apps and an Azure backend. You can find all SmartHotel360 repos in the following locations:
 
 - [SmartHotel360](https://github.com/Microsoft/SmartHotel360)
@@ -20,7 +20,7 @@ For this reference app scenario, we built several consumer and line-of-business 
 - [Sentiment Analysis](https://github.com/Microsoft/SmartHotel360-SentimentAnalysis)
 - [Registration](https://github.com/Microsoft/SmartHotel360-Registration)
 
-# SmartHotel360 - Website
+# SmartHotel And Services 360 - Website
 Welcome to the repository containing the website of SmartHotel360. SmartHotel360 has multiple apps that share a common backend, including a public website where hotel guests can book a room, smart conference rooms, and even verify if their pets are allowed in the hotel.
 
 ![SmartHotel360 Home Page](Documents/Images/screen1.png)
